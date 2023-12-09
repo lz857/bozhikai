@@ -1,10 +1,6 @@
-# official_website_html
+# 博之凯
 
-> A Vue.js project
 
-  ![](https://github.com/cxj20150214/vue-test/blob/master/src/img/wxjt.png?raw=true)
-  
-  ![](https://github.com/cxj20150214/vue-test/blob/master/src/img/wxjt2.png?raw=true)
 
 ## Build Setup
 
@@ -22,4 +18,3 @@ npm run build
 npm run build --report
 ```
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
